@@ -1,0 +1,49 @@
+<settings version="2">
+    <setting id="actifhk" default="true">false</setting>
+    <setting id="actifnewpaste">true</setting>
+    <setting id="heberg">Pastebin</setting>
+    <setting id="numHeberg">Rt9CAUap</setting>
+    <setting id="resos">1080</setting>
+    <setting id="filtliens" default="true">false</setting>
+    <setting id="nb_items">500</setting>
+    <setting id="lists_orderby" default="true">Date Added</setting>
+    <setting id="images_sizes" default="true">Moyenne</setting>
+    <setting id="thumbnails" default="true">0</setting>
+    <setting id="ochk1" default="true">false</setting>
+    <setting id="bookonline" default="true">false</setting>
+    <setting id="bookonline_name" default="true" />
+    <setting id="bookonline_site" default="true">bookmark.zapto.org:5000</setting>
+    <setting id="rentry" default="true" />
+    <setting id="intmaj" default="true">0</setting>
+    <setting id="delaimaj" default="true">0</setting>
+    <setting id="rskin" default="true">false</setting>
+    <setting id="skinhk" default="true">4j82p</setting>
+    <setting id="epg" default="true">lk4Xb</setting>
+    <setting id="keyupto">55d4eac22be6ea239ec5d59087d3bf141relh</setting>
+    <setting id="keyalldebrid" default="true" />
+    <setting id="keyrealdebrid" default="true" />
+    <setting id="apikey" default="true">96139384ce46fd4ffac13e1ad770db7a</setting>
+    <setting id="actifupto" default="true">false</setting>
+    <setting id="nbupto">20</setting>
+    <setting id="modeadd" default="true">alias</setting>
+    <setting id="actifalldeb" default="true">false</setting>
+    <setting id="clientid" default="true">29ed315a4ca3ead741a0844a44d8a3103e00071b89fd107aa54f13dc7795605f</setting>
+    <setting id="clientsecret" default="true">ab17d047a094f0386f7c15eba3f6c945d29848ebe745aa84db168d45e08925ad</setting>
+    <setting id="clientacces" default="true" />
+    <setting id="clientrefresh" default="true" />
+    <setting id="clientexpire" default="true" />
+    <setting id="traktperso" default="true">false</setting>
+    <setting id="usertrakt" default="true" />
+    <setting id="profiltrakt" default="true" />
+    <setting id="actiftmdb" default="true">false</setting>
+    <setting id="actifpastebin" default="true">false</setting>
+    <setting id="iptv">true</setting>
+    <setting id="contentIptv" default="true">videos</setting>
+    <setting id="site1" default="true" />
+    <setting id="mac1" default="true" />
+    <setting id="token1" default="true" />
+    <setting id="passtmp" default="true" />
+    <setting id="poissFolder">766771131</setting>
+    <setting id="poissHash">DcCPWn6E33pVNIh6</setting>
+    <setting id="numba" default="true">1yjXN</setting>
+</settings>
