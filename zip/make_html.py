@@ -8,7 +8,7 @@ for path, dirs, files in os.walk(folder_path):
     text='<!DOCTYPE html>'
     if len(dirs)>0:
         for dir in dirs:
-            text+=f'<a href="/{dir}">/{dir}/</a></br>\n'
+            text+=f'<a href="{dir}">/{dir}/</a></br>\n'
     if len(dossier.split('\\'))>1:
         for filename in files:
             #print(f"{dossier}\{filename}")
