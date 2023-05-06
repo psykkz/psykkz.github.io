@@ -1,0 +1,2 @@
+kodi-20.0-Nexus-armeabi-v7a.apk filter=lfs diff=lfs merge=lfs -text
+IPTV[[:space:]]Smarters[[:space:]]Pro[[:space:]]3.1.5.1.apk filter=lfs diff=lfs merge=lfs -text
